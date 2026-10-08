@@ -1,0 +1,294 @@
+{
+  "Baron": {
+    "adjectives": [
+      "expensive",
+      "personal",
+      "best"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.21060513307650883,
+    "positive_score": 0.3027132526040077
+  },
+  "Bene Gesserit": {
+    "adjectives": [
+      "original",
+      "difficult",
+      "male"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.2605485384662946,
+    "positive_score": 0.35721528629461924
+  },
+  "Duke": {
+    "adjectives": [
+      "slippery",
+      "stupid",
+      "dear"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.5454377412796021,
+    "positive_score": 0.4576091488202413
+  },
+  "Duncan": {
+    "adjectives": [
+      "successful",
+      "heavy",
+      "clear"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.2817829226454099,
+    "positive_score": 0.33907030522823334
+  },
+  "Fenring": {
+    "adjectives": [
+      "responsible",
+      "obvious",
+      "dear"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.35251265913248064,
+    "positive_score": 0.3559530645608902
+  },
+  "Feyd-Rautha": {
+    "adjectives": [
+      "direct",
+      "conscious",
+      "pale"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.2543608590960503,
+    "positive_score": 0.2534466495116552
+  },
+  "Fremen": {
+    "adjectives": [
+      "frightening",
+      "confident",
+      "careful"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.47560015320777893,
+    "positive_score": 0.5998879810174306
+  },
+  "Guild": {
+    "adjectives": [
+      "oily",
+      "cursed",
+      "damnable"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.3953807209928831,
+    "positive_score": 0.27587661941846214
+  },
+  "Guildsman": {
+    "adjectives": [
+      "tall",
+      "taller",
+      "shorter"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.1036628471299385,
+    "positive_score": 0.11830688839157423
+  },
+  "Gurney": {
+    "adjectives": [
+      "froze",
+      "right",
+      "wrong"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.5386833329995473,
+    "positive_score": 0.5036919911702474
+  },
+  "Harkonnen": {
+    "adjectives": [
+      "paternal",
+      "sixth",
+      "first"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.32287133261561396,
+    "positive_score": 0.2742380365729332
+  },
+  "Jessica": {
+    "adjectives": [
+      "open",
+      "tired",
+      "constant"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.3720638304948807,
+    "positive_score": 0.31469737490018207
+  },
+  "Kynes": {
+    "adjectives": [
+      "delirious",
+      "outstretched",
+      "elder"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.39787114461263023,
+    "positive_score": 0.31763685643672945
+  },
+  "Leto": {
+    "adjectives": [
+      "beloved",
+      "older",
+      "correct"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.2643825908501943,
+    "positive_score": 0.35172644158204397
+  },
+  "Majesty": {
+    "adjectives": [
+      "worried",
+      "useless",
+      "own"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.41350441773732505,
+    "positive_score": 0.40820034046967824
+  },
+  "Nefud": {
+    "adjectives": [
+      "efficient",
+      "unhappy",
+      "dense"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.3833030551671982,
+    "positive_score": 0.4273000121116638
+  },
+  "Paul": {
+    "adjectives": [
+      "awake",
+      "asleep",
+      "bent"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.4238523523012797,
+    "positive_score": 0.3391390482584635
+  },
+  "Piter": {
+    "adjectives": [
+      "semuta",
+      "shocked",
+      "bad"
+    ],
+    "label": "Unscored",
+    "missing_vectors": [
+      "semuta"
+    ],
+    "negative_score": null,
+    "positive_score": null,
+    "reason": "missing_vectors"
+  },
+  "Sardaukar": {
+    "adjectives": [
+      "few",
+      "captive",
+      "eyed"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.4344904273748398,
+    "positive_score": 0.36895674268404643
+  },
+  "Stilgar": {
+    "adjectives": [
+      "full",
+      "nervous",
+      "black"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.23860761572917302,
+    "positive_score": 0.2683726757764816
+  },
+  "Thufir": {
+    "adjectives": [
+      "thufir",
+      "true",
+      "good"
+    ],
+    "label": "Unscored",
+    "missing_vectors": [
+      "thufir"
+    ],
+    "negative_score": null,
+    "positive_score": null,
+    "reason": "missing_vectors"
+  },
+  "Thufir Hawat": {
+    "adjectives": [
+      "formidable",
+      "redoubtable",
+      "alone"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.49474212328592937,
+    "positive_score": 0.3494623800118764
+  },
+  "Truthsayer": {
+    "adjectives": [
+      "gifted",
+      "favorite",
+      "old"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.3623194408913453,
+    "positive_score": 0.3738776594400406
+  },
+  "Wanna": {
+    "adjectives": [
+      "certain",
+      "favorite",
+      "poor"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.29626602952679,
+    "positive_score": 0.3194303572177887
+  },
+  "Yueh": {
+    "adjectives": [
+      "purple",
+      "jaw",
+      "tiny"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.17341655790805816,
+    "positive_score": 0.16953887740770976
+  },
+  "m'Lord": {
+    "adjectives": [
+      "clear",
+      "enough",
+      "good"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.43000824650128683,
+    "positive_score": 0.4572463115056356
+  }
+}

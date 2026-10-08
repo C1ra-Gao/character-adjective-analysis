@@ -1,0 +1,110 @@
+{
+  "accuracy_evaluation": "not performed; no labeled evaluation set",
+  "date": "2026-10-08",
+  "dependency_check": "No broken requirements found",
+  "edition": "2026-portfolio-repair",
+  "original_files": {
+    "all_sha256_unchanged": true,
+    "audit_file_checked": true,
+    "historical_files_checked": 12
+  },
+  "runs": {
+    "dorian_gray": {
+      "controlled_pmi": {
+        "character_keys": 60,
+        "expected_fixed_minus_legacy_score": 1.4329594072761063,
+        "pair_events": 162,
+        "sample_space": "same 2026 pair counts",
+        "top_three_unchanged_same_counts_and_tie_order": true
+      },
+      "controlled_sentiment": {
+        "comparable_rows": 6,
+        "labels_changed": 2,
+        "sample_space": "same repaired top-three lists and 2026 md model; NOT historical 2023 labels"
+      },
+      "output_validation": {
+        "artifact_sha256": {
+          "char_adj.txt": "d9843067105933d4b7f917fa4fd966517ed9da5d2669a677121cf8bf0ef96378",
+          "char_adj_dict.json": "4846a0b7ec8b824ce42dd61976551eb1a46b7f2b3a1732f01d92ded9c9c40985",
+          "char_senti.json": "e1affbe5f3befa463826d967b4a2814844278279591092b9da2132fd57acc069",
+          "char_senti.txt": "1f67d6c629cb7f5b8e26393c7b00f93fc95b979ce4057e5754236d702c33d26b",
+          "characters.json": "a4a295284854912e3dd168ff398ad334993df2b76ca19cb078730effa6c7109a",
+          "mutual_info_dict.json": "7a8a00845e04e2ebcf2471b8267784718656094c336116e51abdfdcec5f27b12",
+          "preprocessed.txt": "5d70c544ccec22a2c1eb1054666bdca797e402bbcb7d9d323cd4f2686bd6a86c",
+          "rejected_sentences.json": "d11ab272aaa797146e937dbf9f6d91faa3a49bb1199e9af0bc55c7f1cb669556",
+          "run_summary.json": "87627d6e43ae3f65fc14c49d1aa46a202420d2f1ec885bd73913761dd0f37afe"
+        },
+        "blank_lines": 0,
+        "book": "The Picture of Dorian Gray",
+        "nontext_lines": 0,
+        "passed": true,
+        "pmi_recomputed": true,
+        "sentiment_recomputed": true,
+        "top_three_checked": true
+      },
+      "repeated_artifacts_equal": {
+        "char_adj.txt": true,
+        "char_adj_dict.json": true,
+        "char_senti.json": true,
+        "char_senti.txt": true,
+        "characters.json": true,
+        "mutual_info_dict.json": true,
+        "preprocessed.txt": true,
+        "rejected_sentences.json": true,
+        "run_summary.json": true
+      }
+    },
+    "dune": {
+      "controlled_pmi": {
+        "character_keys": 100,
+        "expected_fixed_minus_legacy_score": 1.7355221772965375,
+        "pair_events": 333,
+        "sample_space": "same 2026 pair counts",
+        "top_three_unchanged_same_counts_and_tie_order": true
+      },
+      "controlled_sentiment": {
+        "comparable_rows": 24,
+        "labels_changed": 8,
+        "sample_space": "same repaired top-three lists and 2026 md model; NOT historical 2023 labels"
+      },
+      "output_validation": {
+        "artifact_sha256": {
+          "char_adj.txt": "b1e1ff99be35670088e7778b293c47cb7e5d9ceed63a902713c4028da57806cc",
+          "char_adj_dict.json": "94875c8ed7aaf9e598d28f482bf6e67a2c3c4befb9c49f19c5afe6cb352a4064",
+          "char_senti.json": "86e08a93226f057f549d07e9477426169a7ef15e6050d6f58fee51d78422af2e",
+          "char_senti.txt": "14ec01851951c8aaf1b207a89b3227469a0739ace1978dea677042fd8720b6ef",
+          "characters.json": "ac9092eb021165e850bf8c1987591ba7c92be3e5a05901cb951a9582fbed58df",
+          "mutual_info_dict.json": "33349dcea370738084aca79d7ee142c1b1316039bbb7da8118b14effc818f4c0",
+          "preprocessed.txt": "85c5987573b1b9401d4098951906b8d3c57a1394ff206a50a266bccfc354c2a3",
+          "rejected_sentences.json": "60bcaea756373d447ed02a0a7edfe50c8bffad94ab3c574b9f3b03ac46276448",
+          "run_summary.json": "66df4bd33f9c47781b630c96ca89ffae5c0f797b5df40f5428a4a7e184e378d4"
+        },
+        "blank_lines": 0,
+        "book": "Dune",
+        "nontext_lines": 0,
+        "passed": true,
+        "pmi_recomputed": true,
+        "sentiment_recomputed": true,
+        "top_three_checked": true
+      },
+      "repeated_artifacts_equal": {
+        "char_adj.txt": true,
+        "char_adj_dict.json": true,
+        "char_senti.json": true,
+        "char_senti.txt": true,
+        "characters.json": true,
+        "mutual_info_dict.json": true,
+        "preprocessed.txt": true,
+        "rejected_sentences.json": true,
+        "run_summary.json": true
+      }
+    }
+  },
+  "scope": "same-machine repeated-run reproducibility; no second-machine validation",
+  "tests": {
+    "errors": 0,
+    "failures": 0,
+    "log": "unit-tests.txt",
+    "run": 29
+  }
+}

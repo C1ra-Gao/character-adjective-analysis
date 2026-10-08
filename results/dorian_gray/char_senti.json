@@ -1,0 +1,68 @@
+{
+  "Basil": {
+    "adjectives": [
+      "wrong",
+      "angry",
+      "pressing"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.5279507835706075,
+    "positive_score": 0.46914531191190084
+  },
+  "Dorian Gray": {
+    "adjectives": [
+      "real",
+      "nice",
+      "pale"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.4574754888812701,
+    "positive_score": 0.43740730981032055
+  },
+  "Dorian Gray's": {
+    "adjectives": [
+      "worth",
+      "own",
+      "good"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.4110489179690679,
+    "positive_score": 0.44932017028331755
+  },
+  "Harry": {
+    "adjectives": [
+      "more",
+      "usual",
+      "incorrigible"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.4116981213291486,
+    "positive_score": 0.38921373983224233
+  },
+  "Henry": {
+    "adjectives": [
+      "last",
+      "heavy",
+      "many"
+    ],
+    "label": "Positive",
+    "missing_vectors": [],
+    "negative_score": 0.4039346635341644,
+    "positive_score": 0.4105818659067154
+  },
+  "Jim": {
+    "adjectives": [
+      "foolish",
+      "serious",
+      "old"
+    ],
+    "label": "Negative",
+    "missing_vectors": [],
+    "negative_score": 0.5680414736270905,
+    "positive_score": 0.5144417504469554
+  }
+}

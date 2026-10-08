@@ -1,0 +1,35 @@
+{
+  "book": "The Picture of Dorian Gray",
+  "edition": "2026-portfolio-repair",
+  "input_sha256": "9c38d91f7e64cdae52113a2cda33dcd06ceaf6752734fc9113547df96ea630b3",
+  "method": "Punkt; py3langid English; spaCy PERSON/ADJ +/-2 tokens; pair-event PMI; md seed-vector mean",
+  "ner": {
+    "names_with_adjectives": 60,
+    "names_with_top_three": 6,
+    "pair_events": 162,
+    "person_name_strings": 236,
+    "tokens": 101824
+  },
+  "preprocessing": {
+    "accepted_sentences": 6277,
+    "gutenberg_wrapper_removed": true,
+    "language_rejections": 232,
+    "nontext_rejections": 1,
+    "rejected_sentences": 233,
+    "tokenized_sentences": 6510
+  },
+  "sentiment": {
+    "Negative": 4,
+    "Neutral": 0,
+    "Positive": 2,
+    "Unscored": 0
+  },
+  "versions": {
+    "en-core-web-md": "3.8.0",
+    "en-core-web-sm": "3.8.0",
+    "nltk": "3.10.3",
+    "py3langid": "0.4.0",
+    "python": "3.12.6",
+    "spacy": "3.8.16"
+  }
+}

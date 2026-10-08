@@ -1,0 +1,401 @@
+{
+  "controlled_pmi_comparison": {
+    "character_keys": 100,
+    "expected_fixed_minus_legacy_score": 1.7355221772965375,
+    "pair_events": 333,
+    "sample_space": "same 2026 pair counts",
+    "top_three_unchanged_same_counts_and_tie_order": true
+  },
+  "controlled_sentiment_comparison": {
+    "comparable_rows": 24,
+    "labels_changed": 8,
+    "rows": {
+      "Baron": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Positive"
+      },
+      "Bene Gesserit": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Positive"
+      },
+      "Duke": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Duncan": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Positive"
+      },
+      "Fenring": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Positive"
+      },
+      "Feyd-Rautha": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Negative"
+      },
+      "Fremen": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Positive"
+      },
+      "Guild": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Guildsman": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Positive"
+      },
+      "Gurney": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Harkonnen": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Jessica": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Kynes": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Leto": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Positive"
+      },
+      "Majesty": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Negative"
+      },
+      "Nefud": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Positive"
+      },
+      "Paul": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Piter": {
+        "comparison": "not_comparable_missing_vectors",
+        "repaired_label": "Unscored"
+      },
+      "Sardaukar": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Stilgar": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Positive"
+      },
+      "Thufir": {
+        "comparison": "not_comparable_missing_vectors",
+        "repaired_label": "Unscored"
+      },
+      "Thufir Hawat": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Truthsayer": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Positive"
+      },
+      "Wanna": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Positive"
+      },
+      "Yueh": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Negative"
+      },
+      "m'Lord": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Positive"
+      }
+    },
+    "sample_space": "same repaired top-three lists and 2026 md model; NOT historical 2023 labels"
+  },
+  "historical_artifact_comparison": {
+    "common_names": {
+      "Baron": {
+        "historical": [
+          "uncouth",
+          "expensive",
+          "fat"
+        ],
+        "repaired": [
+          "expensive",
+          "personal",
+          "best"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Bene Gesserit": {
+        "historical": [
+          "original",
+          "difficult",
+          "male"
+        ],
+        "repaired": [
+          "original",
+          "difficult",
+          "male"
+        ],
+        "same_adjectives_and_order": true
+      },
+      "Duke": {
+        "historical": [
+          "particular",
+          "precious",
+          "slippery"
+        ],
+        "repaired": [
+          "slippery",
+          "stupid",
+          "dear"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Duncan": {
+        "historical": [
+          "successful",
+          "heavy",
+          "clear"
+        ],
+        "repaired": [
+          "successful",
+          "heavy",
+          "clear"
+        ],
+        "same_adjectives_and_order": true
+      },
+      "Feyd-Rautha": {
+        "historical": [
+          "impatient",
+          "direct",
+          "pale"
+        ],
+        "repaired": [
+          "direct",
+          "conscious",
+          "pale"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Guild": {
+        "historical": [
+          "damnable",
+          "cursed",
+          "finest"
+        ],
+        "repaired": [
+          "oily",
+          "cursed",
+          "damnable"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Guildsman": {
+        "historical": [
+          "taller",
+          "shorter",
+          "tall"
+        ],
+        "repaired": [
+          "tall",
+          "taller",
+          "shorter"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Gurney": {
+        "historical": [
+          "valorous",
+          "glaring",
+          "free"
+        ],
+        "repaired": [
+          "froze",
+          "right",
+          "wrong"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Harkonnen": {
+        "historical": [
+          "likely",
+          "paternal",
+          "sixth"
+        ],
+        "repaired": [
+          "paternal",
+          "sixth",
+          "first"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Leto": {
+        "historical": [
+          "older",
+          "little",
+          "conscious"
+        ],
+        "repaired": [
+          "beloved",
+          "older",
+          "correct"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Majesty": {
+        "historical": [
+          "worried",
+          "useless",
+          "own"
+        ],
+        "repaired": [
+          "worried",
+          "useless",
+          "own"
+        ],
+        "same_adjectives_and_order": true
+      },
+      "Paul": {
+        "historical": [
+          "awake",
+          "asleep",
+          "bent"
+        ],
+        "repaired": [
+          "awake",
+          "asleep",
+          "bent"
+        ],
+        "same_adjectives_and_order": true
+      },
+      "Piter": {
+        "historical": [
+          "semuta",
+          "better",
+          "villainy"
+        ],
+        "repaired": [
+          "semuta",
+          "shocked",
+          "bad"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Sardaukar": {
+        "historical": [
+          "few",
+          "captive",
+          "eyed"
+        ],
+        "repaired": [
+          "few",
+          "captive",
+          "eyed"
+        ],
+        "same_adjectives_and_order": true
+      },
+      "Stilgar": {
+        "historical": [
+          "dune",
+          "nodded",
+          "full"
+        ],
+        "repaired": [
+          "full",
+          "nervous",
+          "black"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Thufir": {
+        "historical": [
+          "thufir",
+          "good",
+          "other"
+        ],
+        "repaired": [
+          "thufir",
+          "true",
+          "good"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Thufir Hawat": {
+        "historical": [
+          "alone",
+          "formidable",
+          "own"
+        ],
+        "repaired": [
+          "formidable",
+          "redoubtable",
+          "alone"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Wanna": {
+        "historical": [
+          "favorite",
+          "certain",
+          "poor"
+        ],
+        "repaired": [
+          "certain",
+          "favorite",
+          "poor"
+        ],
+        "same_adjectives_and_order": false
+      }
+    },
+    "historical_top_three_rows": 23,
+    "names_only_in_historical": [
+      "Alia",
+      "Arrakis",
+      "Feyd-Rautha's",
+      "Landsraad",
+      "shai-hulud"
+    ],
+    "names_only_in_repaired": [
+      "Fenring",
+      "Fremen",
+      "Jessica",
+      "Kynes",
+      "Nefud",
+      "Truthsayer",
+      "Yueh",
+      "m'Lord"
+    ],
+    "repaired_top_three_rows": 26
+  }
+}

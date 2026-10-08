@@ -1,0 +1,35 @@
+{
+  "book": "Dune",
+  "edition": "2026-portfolio-repair",
+  "input_sha256": "069f3f718ddc34ed4f5e5eee513913202bf15faa239b6cccbf3dc1c67ee54d7c",
+  "method": "Punkt; py3langid English; spaCy PERSON/ADJ +/-2 tokens; pair-event PMI; md seed-vector mean",
+  "ner": {
+    "names_with_adjectives": 100,
+    "names_with_top_three": 26,
+    "pair_events": 333,
+    "person_name_strings": 396,
+    "tokens": 268513
+  },
+  "preprocessing": {
+    "accepted_sentences": 17900,
+    "gutenberg_wrapper_removed": false,
+    "language_rejections": 1470,
+    "nontext_rejections": 1711,
+    "rejected_sentences": 3181,
+    "tokenized_sentences": 21081
+  },
+  "sentiment": {
+    "Negative": 12,
+    "Neutral": 0,
+    "Positive": 12,
+    "Unscored": 2
+  },
+  "versions": {
+    "en-core-web-md": "3.8.0",
+    "en-core-web-sm": "3.8.0",
+    "nltk": "3.10.3",
+    "py3langid": "0.4.0",
+    "python": "3.12.6",
+    "spacy": "3.8.16"
+  }
+}

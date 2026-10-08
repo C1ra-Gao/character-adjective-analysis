@@ -1,0 +1,483 @@
+{
+  "Alia": {
+    "blank": 1,
+    "disquieting": 1
+  },
+  "Appendix III: Report": {
+    "=": 1
+  },
+  "Appendix IV:": {
+    "=": 1
+  },
+  "Arena": {
+    "grated": 1
+  },
+  "Arrakeen": {
+    "poor": 1
+  },
+  "Arrakis": {
+    "real": 1,
+    "tough": 1
+  },
+  "Baron": {
+    "awed": 1,
+    "best": 1,
+    "black": 1,
+    "dead": 1,
+    "dear": 2,
+    "demented": 1,
+    "evil": 2,
+    "expensive": 1,
+    "old": 6,
+    "own": 2,
+    "personal": 1,
+    "possible": 1,
+    "sad": 1,
+    "uneasy": 1,
+    "willing": 1,
+    "wrong": 1
+  },
+  "Bated": {
+    "bated": 1
+  },
+  "Behind Kynes": {
+    "other": 1
+  },
+  "Bene Gesserit": {
+    "difficult": 1,
+    "fine": 1,
+    "implant": 1,
+    "inefficient": 1,
+    "male": 2,
+    "many": 1,
+    "much": 1,
+    "old": 1,
+    "organic": 1,
+    "original": 1,
+    "own": 1,
+    "real": 1,
+    "silent": 1,
+    "standard": 1
+  },
+  "Bene Gesserit Truthsayer": {
+    "old": 1
+  },
+  "Betrayed": {
+    "own": 1
+  },
+  "Bhotani": {
+    "ancient": 1
+  },
+  "Bloody": {
+    "bloody": 1
+  },
+  "Bribes": {
+    "dangerous": 1
+  },
+  "Buddha": {
+    "thin": 1
+  },
+  "Corridor": {
+    "clear": 1
+  },
+  "Dawn": {
+    "gray": 1
+  },
+  "Downwind": {
+    "downwind": 1
+  },
+  "Duke": {
+    "dead": 1,
+    "dear": 4,
+    "good": 1,
+    "old": 1,
+    "own": 1,
+    "poor": 2,
+    "slippery": 1,
+    "stupid": 1,
+    "young": 2
+  },
+  "Duke Leto": {
+    "poor": 1
+  },
+  "Duke Leto's": {
+    "late": 1
+  },
+  "Duke Paul": {
+    "obvious": 1
+  },
+  "Duncan": {
+    "clear": 1,
+    "dead": 1,
+    "heavy": 1,
+    "successful": 1
+  },
+  "Duncan Idaho": {
+    "drunken": 1,
+    "ours": 1
+  },
+  "Fedaykin": {
+    "robed": 1
+  },
+  "Fenring": {
+    "dear": 1,
+    "obvious": 1,
+    "responsible": 1
+  },
+  "Feyd": {
+    "dense": 1,
+    "eminent": 1
+  },
+  "Feyd-Rautha": {
+    "conscious": 1,
+    "direct": 1,
+    "enough": 1,
+    "haired": 1,
+    "pale": 1,
+    "proud": 1,
+    "silent": 1,
+    "young": 3
+  },
+  "Feyd-Rautha's": {
+    "chief": 1
+  },
+  "Fremen": {
+    "careful": 1,
+    "confident": 1,
+    "frightening": 1,
+    "older": 1,
+    "religious": 1
+  },
+  "Ginaz": {
+    "tenth": 1
+  },
+  "Glaring": {
+    "white": 1
+  },
+  "Grandfather": {
+    "sorry": 1
+  },
+  "Guild": {
+    "cursed": 1,
+    "damnable": 1,
+    "finest": 1,
+    "gray": 1,
+    "much": 1,
+    "oily": 1
+  },
+  "Guildsman": {
+    "shorter": 1,
+    "tall": 2,
+    "taller": 1
+  },
+  "Gurney": {
+    "froze": 1,
+    "poor": 2,
+    "right": 1,
+    "wrong": 1
+  },
+  "Gurney Halleck": {
+    "great": 1,
+    "left": 1
+  },
+  "Harah": {
+    "troubling": 1
+  },
+  "Harkonnen": {
+    "first": 1,
+    "old": 1,
+    "own": 1,
+    "paternal": 1,
+    "poor": 1,
+    "sixth": 1
+  },
+  "Harkonnens": {
+    "real": 1
+  },
+  "Harsh": {
+    "harsh": 1
+  },
+  "House Harkonnen": {
+    "ultimate": 1
+  },
+  "Hybrid Inglo-Slavic": {
+    "strong": 1
+  },
+  "Imperial": {
+    "imperial": 1
+  },
+  "Jessica": {
+    "constant": 1,
+    "creep": 1,
+    "drunk": 1,
+    "enough": 1,
+    "fearful": 1,
+    "first": 1,
+    "good": 1,
+    "larger": 1,
+    "left": 1,
+    "open": 1,
+    "perceptive": 1,
+    "possible": 1,
+    "rash": 1,
+    "tired": 1,
+    "unbidden": 1,
+    "uncertain": 1
+  },
+  "KHALA": {
+    "traditional": 1
+  },
+  "Kanly": {
+    "kanly": 1
+  },
+  "Kynes": {
+    "dead": 1,
+    "delirious": 1,
+    "elder": 1,
+    "outstretched": 1,
+    "right": 1
+  },
+  "Lady Jessica": {
+    "dear": 2
+  },
+  "Landsraad": {
+    "most": 1,
+    "ordinary": 1
+  },
+  "Laughter": {
+    "abrupt": 1
+  },
+  "Leto": {
+    "beloved": 1,
+    "correct": 1,
+    "dear": 2,
+    "little": 1,
+    "older": 1,
+    "poor": 1
+  },
+  "Liet": {
+    "dead": 1
+  },
+  "Lisan al-Gaib": {
+    "other": 1
+  },
+  "Majesty": {
+    "own": 1,
+    "useless": 1,
+    "worried": 1
+  },
+  "Mapes": {
+    "left": 1
+  },
+  "Momentary": {
+    "momentary": 1
+  },
+  "Mother Ramallo": {
+    "aware": 1,
+    "old": 1
+  },
+  "Nefud": {
+    "dense": 1,
+    "efficient": 1,
+    "unhappy": 1
+  },
+  "Nephew": {
+    "stupid": 1
+  },
+  "Paul": {
+    "abrupt": 1,
+    "afraid": 1,
+    "alive": 1,
+    "alone": 1,
+    "asleep": 2,
+    "awake": 1,
+    "aware": 3,
+    "bent": 1,
+    "blue": 1,
+    "capable": 1,
+    "cautious": 1,
+    "clear": 1,
+    "cold": 1,
+    "dead": 1,
+    "defensive": 1,
+    "enough": 1,
+    "glad": 1,
+    "hot": 1,
+    "jammed": 1,
+    "left": 1,
+    "more": 1,
+    "new": 1,
+    "obvious": 1,
+    "other": 2,
+    "possible": 2,
+    "real": 2,
+    "right": 2,
+    "silent": 4,
+    "steady": 1,
+    "strongest": 1,
+    "submissive": 1,
+    "unable": 1,
+    "untamed": 1,
+    "upper": 1,
+    "wrong": 2,
+    "young": 4
+  },
+  "Paul Atreides": {
+    "young": 2
+  },
+  "Piter": {
+    "bad": 1,
+    "blue": 1,
+    "dear": 2,
+    "semuta": 1,
+    "shocked": 1,
+    "silent": 1,
+    "true": 1
+  },
+  "Rabban": {
+    "little": 1
+  },
+  "SALUSA SECUNDUS": {
+    "third": 1
+  },
+  "STILLTENT": {
+    "small": 1
+  },
+  "Sardaukar": {
+    "arrogant": 1,
+    "captive": 4,
+    "eyed": 1,
+    "few": 3,
+    "fractional": 1,
+    "good": 1,
+    "gray": 1,
+    "hard": 1,
+    "little": 1,
+    "obsidian": 1,
+    "other": 1,
+    "sardaukar": 4,
+    "sure": 1,
+    "undressed": 1
+  },
+  "Sayyadina Jessica": {
+    "new": 1
+  },
+  "Secret Message": {
+    "secret": 1
+  },
+  "Shaddam": {
+    "more": 1
+  },
+  "Shaddam IV": {
+    "closest": 1
+  },
+  "Shield Wall": {
+    "distant": 1
+  },
+  "Soor": {
+    "young": 1
+  },
+  "Spacing Guild": {
+    "abominable": 1
+  },
+  "Stil": {
+    "quick": 1
+  },
+  "Stilgar": {
+    "black": 1,
+    "full": 1,
+    "good": 1,
+    "nervous": 1,
+    "own": 1,
+    "silent": 2
+  },
+  "Thin": {
+    "thin": 1
+  },
+  "Thufir": {
+    "good": 2,
+    "old": 1,
+    "other": 1,
+    "thufir": 3,
+    "true": 1
+  },
+  "Thufir Hawat": {
+    "alone": 1,
+    "formidable": 1,
+    "own": 1,
+    "redoubtable": 1
+  },
+  "Truthsayer": {
+    "favorite": 1,
+    "gifted": 1,
+    "old": 4
+  },
+  "Uncle": {
+    "fete": 1,
+    "interesting": 1
+  },
+  "Vladimir Harkonnen": {
+    "old": 1
+  },
+  "Wanna": {
+    "certain": 1,
+    "favorite": 1,
+    "poor": 1
+  },
+  "White": {
+    "green": 1
+  },
+  "Woven": {
+    "woven": 1
+  },
+  "Yueh": {
+    "enough": 1,
+    "jaw": 1,
+    "late": 1,
+    "own": 1,
+    "purple": 2,
+    "tiny": 1
+  },
+  "Zensunni Wanderers": {
+    "many": 1
+  },
+  "a Bene Gesserit Reverend Mother": {
+    "patient": 1
+  },
+  "bush": {
+    "creosote": 1
+  },
+  "grey blob": {
+    "grey": 1
+  },
+  "hair cilia": {
+    "peatlike": 1
+  },
+  "kindest": {
+    "kindest": 1
+  },
+  "kinsman": {
+    "respected": 1
+  },
+  "m'Lord": {
+    "clear": 1,
+    "enough": 1,
+    "good": 1
+  },
+  "serv--": {
+    "own": 1
+  },
+  "tan": {
+    "light": 1
+  },
+  "the Bene Gesserit": {
+    "correct": 1
+  },
+  "the Lisan al-Gaib": {
+    "stupid": 1,
+    "true": 1
+  },
+  "warren": {
+    "barbarian": 1
+  }
+}

@@ -1,0 +1,34 @@
+test_multi_token_entity_and_document_edges (test_model_integration.ModelIntegrationTests.test_multi_token_entity_and_document_edges) ... ok
+test_real_preprocessor_strips_wrapper_and_preserves_input (test_model_integration.ModelIntegrationTests.test_real_preprocessor_strips_wrapper_and_preserves_input) ... ok
+test_real_vector_order_invariance (test_model_integration.ModelIntegrationTests.test_real_vector_order_invariance) ... ok
+test_vector_tokenization_matches_original_full_pipeline (test_model_integration.ModelIntegrationTests.test_vector_tokenization_matches_original_full_pipeline) ... ok
+test_existing_output_directory_not_overwritten (test_pipeline_guards.PipelineGuardTests.test_existing_output_directory_not_overwritten) ... ok
+test_full_text_output_inside_public_tree_rejected (test_pipeline_guards.PipelineGuardTests.test_full_text_output_inside_public_tree_rejected) ... ok
+test_preprocessing_does_not_overwrite_input (test_pipeline_guards.PipelineGuardTests.test_preprocessing_does_not_overwrite_input) ... ok
+test_empty_and_zero_events (test_pmi.PMITests.test_empty_and_zero_events) ... ok
+test_independent_events_score_zero (test_pmi.PMITests.test_independent_events_score_zero) ... ok
+test_invalid_counts_rejected (test_pmi.PMITests.test_invalid_counts_rejected) ... ok
+test_known_joint_distribution (test_pmi.PMITests.test_known_joint_distribution) ... ok
+test_replication_does_not_change_probabilities (test_pmi.PMITests.test_replication_does_not_change_probabilities) ... ok
+test_ties_keep_original_insertion_order (test_pmi.PMITests.test_ties_keep_original_insertion_order) ... ok
+test_top_three_threshold_and_order (test_pmi.PMITests.test_top_three_threshold_and_order) ... ok
+test_zero_pairs_are_not_logged (test_pmi.PMITests.test_zero_pairs_are_not_logged) ... ok
+test_incomplete_markers_fail_visibly (test_preprocessing.PreprocessingTests.test_incomplete_markers_fail_visibly) ... ok
+test_internal_newlines_blank_and_quote_only (test_preprocessing.PreprocessingTests.test_internal_newlines_blank_and_quote_only) ... ok
+test_non_english_short_sentence_is_not_bypassed (test_preprocessing.PreprocessingTests.test_non_english_short_sentence_is_not_bypassed) ... ok
+test_old_and_new_gutenberg_markers (test_preprocessing.PreprocessingTests.test_old_and_new_gutenberg_markers) ... ok
+test_old_footer_note_inside_marker_is_removed (test_preprocessing.PreprocessingTests.test_old_footer_note_inside_marker_is_removed) ... ok
+test_plain_text_is_preserved (test_preprocessing.PreprocessingTests.test_plain_text_is_preserved) ... ok
+test_produced_phrase_in_plain_story_is_preserved (test_preprocessing.PreprocessingTests.test_produced_phrase_in_plain_story_is_preserved) ... ok
+test_production_credits_inside_marker_are_removed (test_preprocessing.PreprocessingTests.test_production_credits_inside_marker_are_removed) ... ok
+test_all_permutations_have_same_scores_and_label (test_sentiment.SentimentTests.test_all_permutations_have_same_scores_and_label) ... ok
+test_average_all_pairs (test_sentiment.SentimentTests.test_average_all_pairs) ... ok
+test_empty_and_missing_vectors_are_unscored (test_sentiment.SentimentTests.test_empty_and_missing_vectors_are_unscored) ... ok
+test_empty_average_is_invalid (test_sentiment.SentimentTests.test_empty_average_is_invalid) ... ok
+test_input_parser (test_sentiment.SentimentTests.test_input_parser) ... ok
+test_negative_and_positive (test_sentiment.SentimentTests.test_negative_and_positive) ... ok
+
+----------------------------------------------------------------------
+Ran 29 tests in 1.917s
+
+OK

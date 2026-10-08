@@ -1,0 +1,28 @@
+{
+  "algorithms_or_models_changed": false,
+  "allowed_path_examples_checked": 6,
+  "assistance_2026": "Codex-assisted repairs, tests and portfolio documentation",
+  "authorship_2023": "independently written by author; based on explicit author confirmation",
+  "blocked_path_examples_checked": 16,
+  "contiguous_40_word_novel_matches": [],
+  "course_permission": "not required for independently authored implementation; author explicitly confirmed",
+  "final_user_publication_approval": "not granted; required",
+  "git_repository_initialized": false,
+  "ignore_rules_checked_without_git_initialization": true,
+  "ignored_files_left_in_candidate": [],
+  "long_excerpt_scan_limit": "heuristic, not a copyright clearance; aggregate schema also manually inspected",
+  "longest_entity_characters": {
+    "dorian_gray": 23,
+    "dune": 31
+  },
+  "novels_rerun_in_phase3": false,
+  "original_files_unchanged": true,
+  "phase2_protected_files_unchanged": 33,
+  "private_identifier_or_path_findings": [],
+  "publication_status": "AWAITING_FINAL_AUTHOR_APPROVAL_NOT_PUBLISHED",
+  "readme_all_result_table_rows_match_phase2": true,
+  "readme_local_links_valid": true,
+  "readme_sample_rows_checked": 4,
+  "readme_sections_present": true,
+  "review_date": "2026-10-08"
+}

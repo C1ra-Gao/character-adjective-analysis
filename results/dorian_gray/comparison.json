@@ -1,0 +1,126 @@
+{
+  "controlled_pmi_comparison": {
+    "character_keys": 60,
+    "expected_fixed_minus_legacy_score": 1.4329594072761063,
+    "pair_events": 162,
+    "sample_space": "same 2026 pair counts",
+    "top_three_unchanged_same_counts_and_tie_order": true
+  },
+  "controlled_sentiment_comparison": {
+    "comparable_rows": 6,
+    "labels_changed": 2,
+    "rows": {
+      "Basil": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Dorian Gray": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Negative"
+      },
+      "Dorian Gray's": {
+        "label_changed": true,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Positive"
+      },
+      "Harry": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      },
+      "Henry": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Positive",
+        "repaired_label": "Positive"
+      },
+      "Jim": {
+        "label_changed": false,
+        "legacy_arithmetic_label_on_2026_input": "Negative",
+        "repaired_label": "Negative"
+      }
+    },
+    "sample_space": "same repaired top-three lists and 2026 md model; NOT historical 2023 labels"
+  },
+  "historical_artifact_comparison": {
+    "common_names": {
+      "Basil": {
+        "historical": [
+          "wrong",
+          "pressing",
+          "bad"
+        ],
+        "repaired": [
+          "wrong",
+          "angry",
+          "pressing"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Dorian Gray": {
+        "historical": [
+          "nice",
+          "sick",
+          "pale"
+        ],
+        "repaired": [
+          "real",
+          "nice",
+          "pale"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Harry": {
+        "historical": [
+          "more",
+          "usual",
+          "good"
+        ],
+        "repaired": [
+          "more",
+          "usual",
+          "incorrigible"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Henry": {
+        "historical": [
+          "heavy",
+          "many",
+          "casual"
+        ],
+        "repaired": [
+          "last",
+          "heavy",
+          "many"
+        ],
+        "same_adjectives_and_order": false
+      },
+      "Jim": {
+        "historical": [
+          "foolish",
+          "serious",
+          "old"
+        ],
+        "repaired": [
+          "foolish",
+          "serious",
+          "old"
+        ],
+        "same_adjectives_and_order": true
+      }
+    },
+    "historical_top_three_rows": 9,
+    "names_only_in_historical": [
+      "Gray",
+      "Hallward",
+      "Jew",
+      "Project Gutenberg-tm"
+    ],
+    "names_only_in_repaired": [
+      "Dorian Gray's"
+    ],
+    "repaired_top_three_rows": 6
+  }
+}

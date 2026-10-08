@@ -1,0 +1,6 @@
+Basil is Negative. Adjectives: ['wrong', 'angry', 'pressing']
+Dorian Gray is Negative. Adjectives: ['real', 'nice', 'pale']
+Dorian Gray's is Positive. Adjectives: ['worth', 'own', 'good']
+Harry is Negative. Adjectives: ['more', 'usual', 'incorrigible']
+Henry is Positive. Adjectives: ['last', 'heavy', 'many']
+Jim is Negative. Adjectives: ['foolish', 'serious', 'old']
